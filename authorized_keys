@@ -1,4 +1,0 @@
-no-port-forwarding,no-agent-forwarding,no-X11-forwarding,command="echo 'Please login as the user \"ec2-user\" rather than the user \"root\".';echo;sleep 10" s
-sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5rEaMDjsmBAs1ZXKXrnDPKMKTI2D0TUohKqkcokWsoBZKVGn+wTFWdTJS1oObshE4S5MivVEWkzAdZEvhqyA6VGCi4lXFzo01tBwO5hPbYJA0ZxXaZzX5nJF
-9gGKLBSgl/Dz9TgySAX0s7jhjrwJPPHgibEuIJrs7OMhmuSQVvHnDztlMghOA94vT0iifsFtM209FIrVyQiCkrT3yTeFn9V1AVBGA/9B2bVFddNjQcU+FLRmKmSbcTDPZ2DOHlGI6Q+3vHWAluQd2lbv86yMaB
-Va736TWsbhJBKiP1KItu4Y5idKQBCHMwtItJtMG6tCW9jTxpKhJEuRBmQcWwdih AL
