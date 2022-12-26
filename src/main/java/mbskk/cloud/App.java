@@ -13,6 +13,6 @@ public class App
         System.out.println( "This is Sai Kiran Krishna" );
         System.out.println( "Learning Maven" );
         System.out.println( "Don't quit " );
-         System.out.println( " " );
+         System.out.println( "Never give up " );
     }
 }
