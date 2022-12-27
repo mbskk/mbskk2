@@ -9,6 +9,7 @@ pipeline{
     stage('Deploy'){
       when{
         branch 'main'
+        environment name:'branch', value:'main'
       }
       steps{
         echo "Deploy to main"
