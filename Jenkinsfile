@@ -1,5 +1,8 @@
 pipeline{
   agent any
+  environment{
+    branch='main'
+  }
   stages{
     stage('Build'){
       steps{
